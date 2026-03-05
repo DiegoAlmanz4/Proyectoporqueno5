@@ -1,3 +1,2 @@
 # Proyectoporqueno5
-proyecto con wifis
-ar tengo caca en la cabeza
+Hola profe buenos dias/tardes, mi proyecyo consiste en todo lo que nos pidio solo que en vez de llamarlo portafolio lo llame Investigación que es lo mismo, solo ue se escucha mejor, yo lo hice de algo que me gusta ser, biologo marino. El html es bastantesimple meti todo sobre los mismos tres en este caso inicio, portafolio, contacto, use la misma base de estilos para ambos para ahorrarme tiempo, en investigacion esta todo sobre trabajos e investigaciones previas obviamente ficticias y si etc. El wirerframe, diagrama, figma, tabla comparativa lo hize con los mismos estilos y estetica del html, es bastante simple de entender, eso es todo gracias, att:Santiago Isaac 
